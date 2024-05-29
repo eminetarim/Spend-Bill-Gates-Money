@@ -19,7 +19,7 @@ Spend Bill Gates' Money is an online simulation or game where players are given 
 
 - Purchased products are listed at the bottom of the screen with their quantities and total cost.
 
-- Canli site linki: 
+- Live link : https://spend-bill-gates-money-roan.vercel.app/
 
 ![](/src/assets/screen1.png)
 ![](/src/assets/screen2.png)
