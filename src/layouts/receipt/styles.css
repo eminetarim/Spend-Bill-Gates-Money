@@ -1,0 +1,23 @@
+.receipt {
+}
+
+.cart {
+  margin-top: 25px;
+}
+
+.product {
+  display: grid;
+  grid-template-columns: 4fr 2fr 4fr;
+  align-items: center;
+  width: 300px;
+}
+
+.total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+  margin-top: 15px;
+  padding-top: 10px;
+  border-top: 1px solid #000000;
+}
